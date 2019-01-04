@@ -5,7 +5,7 @@ Python Tips
 Please clone or fork, the notebooks are meant to be interacted with.
 --------------------------------------------------------------------
 
-Note that these were written in Python 3 (3.6)
+Note that these were written in Python 3 (3.6).
 
 These files are .ipynb. It is a notebook document used by Jupyter Notebook, an interactive computational environment designed to help scientists work with the Python language (as well as Julia and R).
 
